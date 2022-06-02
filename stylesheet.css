@@ -1,0 +1,43 @@
+/* CSS script last modified: 2 June 2022 */
+
+/* Section headers */
+h2 {
+	color:black;
+	font-family:Arial;
+}
+
+/* Paragraph settings */
+p {
+	font-family:Arial;
+	color:black;
+
+/* Links */
+
+	/* Unvisited link */
+a:link {
+	font-family:Arial;
+	color:blue;
+	text-decoration: none;
+}
+
+	/* Visited link */
+a:visited {
+	font-family:Arial;
+	color:blue;
+	text-decoration: none;
+}
+
+	/* Mouse over link */
+a:hover {
+	font-family:Arial;
+	color:blue;
+	text-decoration: none;
+}
+
+	/* Selected link */
+a:active {
+	font-family:Arial;
+	color:blue;
+	text-decoration: none;
+}
+
