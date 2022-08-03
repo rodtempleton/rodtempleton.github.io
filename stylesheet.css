@@ -1,9 +1,19 @@
 /* CSS script last modified: 2 June 2022 */
 
 /* Section headers */
+h1 {
+	color:black;
+	font-family:Arial;
+}
+	
 h2 {
 	color:black;
 	font-family:Arial;
+}
+
+ol li {
+	font-family:Arial;
+	color:black;
 }
 
 /* Paragraph settings */
@@ -41,9 +51,5 @@ a:active {
 	text-decoration: none;
 }
 
-li {
-	font-family:Arial
-	color:blue;
-	text-decoration: none;
-}
+
 
